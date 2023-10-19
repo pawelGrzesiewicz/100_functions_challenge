@@ -17,6 +17,7 @@ function paperwork(n, m) {
         return 0;
     }
 }
+
 console.log(paperwork(5, -5));
 
 
